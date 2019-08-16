@@ -1,0 +1,95 @@
+<annotation>
+	<folder>augmented_clips</folder>
+	<filename>train_25_.jpeg</filename>
+<<<<<<< HEAD
+	<path>/mnt/flash/augmented_clips/1565716305_7631726_avi_2019-08-14 11:41:29-00.jpeg</path>
+=======
+	<path>/mnt/flash/augmented_clips/1565716305_7631726_avi_2019-08-14 11:39:20-02.jpeg</path>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+<<<<<<< HEAD
+		<name>hardhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>79</ymin>
+			<xmax>452</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+	<object>
+=======
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		<name>safetyvest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>229</xmin>
+			<ymin>102</ymin>
+			<xmax>488</xmax>
+			<ymax>311</ymax>
+=======
+			<xmin>590</xmin>
+			<ymin>315</ymin>
+			<xmax>806</xmax>
+			<ymax>554</ymax>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>229</xmin>
+			<ymin>102</ymin>
+			<xmax>495</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>99</ymin>
+			<xmax>335</xmax>
+			<ymax>153</ymax>
+=======
+			<xmin>583</xmin>
+			<ymin>172</ymin>
+			<xmax>833</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>563</xmin>
+			<ymin>621</ymin>
+			<xmax>748</xmax>
+			<ymax>720</ymax>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,89 @@
+<annotation>
+	<folder>saved_clips</folder>
+	<filename>train_386_.jpeg</filename>
+<<<<<<< HEAD
+	<path>/mnt/flash/saved_clips/1565716305.7631726.avi_2019-08-14 11:41:17.984534.jpeg</path>
+=======
+	<path>/mnt/flash/saved_clips/1565716305.7631726.avi_2019-08-14 11:42:30.834928.jpeg</path>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hardhat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>493</xmin>
+			<ymin>292</ymin>
+			<xmax>649</xmax>
+			<ymax>470</ymax>
+=======
+			<xmin>104</xmin>
+			<ymin>1</ymin>
+			<xmax>228</xmax>
+			<ymax>59</ymax>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		</bndbox>
+	</object>
+	<object>
+		<name>safetyvest</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>583</xmin>
+			<ymin>268</ymin>
+			<xmax>749</xmax>
+			<ymax>439</ymax>
+=======
+			<xmin>228</xmin>
+			<ymin>1</ymin>
+			<xmax>454</xmax>
+			<ymax>166</ymax>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>479</xmin>
+			<ymin>243</ymin>
+			<xmax>776</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>542</xmin>
+			<ymin>383</ymin>
+			<xmax>602</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+=======
+			<xmin>115</xmin>
+			<ymin>1</ymin>
+			<xmax>608</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+</annotation>

@@ -1,0 +1,98 @@
+<annotation>
+	<folder>saved_clips</folder>
+	<filename>train_339_.jpeg</filename>
+<<<<<<< HEAD
+	<path>/mnt/flash/saved_clips/1565716305.7631726.avi_2019-08-14 11:41:02.442185.jpeg</path>
+=======
+	<path>/mnt/flash/saved_clips/1565716305.7631726.avi_2019-08-14 11:41:28.465427.jpeg</path>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hardhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>801</xmin>
+			<ymin>434</ymin>
+			<xmax>992</xmax>
+			<ymax>605</ymax>
+=======
+			<xmin>593</xmin>
+			<ymin>359</ymin>
+			<xmax>775</xmax>
+			<ymax>516</ymax>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		</bndbox>
+	</object>
+	<object>
+		<name>safetyvest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>761</xmin>
+			<ymin>348</ymin>
+			<xmax>1024</xmax>
+			<ymax>568</ymax>
+=======
+			<xmin>678</xmin>
+			<ymin>288</ymin>
+			<xmax>845</xmax>
+			<ymax>530</ymax>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>701</xmin>
+			<ymin>332</ymin>
+			<xmax>1020</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red</name>
+=======
+			<xmin>566</xmin>
+			<ymin>253</ymin>
+			<xmax>848</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yellow</name>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>927</xmin>
+			<ymin>539</ymin>
+			<xmax>975</xmax>
+			<ymax>590</ymax>
+=======
+			<xmin>697</xmin>
+			<ymin>419</ymin>
+			<xmax>748</xmax>
+			<ymax>484</ymax>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		</bndbox>
+	</object>
+</annotation>

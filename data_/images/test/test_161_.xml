@@ -1,0 +1,39 @@
+<annotation>
+<<<<<<< HEAD
+	<folder>augmented_clips</folder>
+	<filename>test_161_.jpeg</filename>
+	<path>/mnt/flash/augmented_clips/1565722332_7215972_avi_2019-08-14 11:43:35-02.jpeg</path>
+=======
+	<folder>saved_clips</folder>
+	<filename>test_161_.jpeg</filename>
+	<path>/mnt/flash/saved_clips/1565716305.7631726.avi_2019-08-14 11:39:17.362515.jpeg</path>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>473</xmin>
+			<ymin>585</ymin>
+			<xmax>668</xmax>
+			<ymax>719</ymax>
+=======
+			<xmin>117</xmin>
+			<ymin>423</ymin>
+			<xmax>470</xmax>
+			<ymax>698</ymax>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		</bndbox>
+	</object>
+</annotation>

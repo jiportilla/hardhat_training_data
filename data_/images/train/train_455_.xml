@@ -1,0 +1,75 @@
+<annotation>
+<<<<<<< HEAD
+    <folder>augmented_clips</folder>
+    <filename>train_455_.jpeg</filename>
+    <path>/mnt/flash/augmented_clips/1565716305_7631726_avi_2019-08-14 11:40:38-01.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>hardhat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>588</xmin>
+            <ymin>588</ymin>
+            <xmax>720</xmax>
+            <ymax>660</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>safetyvest</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>536</xmin>
+            <ymin>524</ymin>
+            <xmax>743</xmax>
+            <ymax>660</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>540</xmin>
+            <ymin>369</ymin>
+            <xmax>760</xmax>
+            <ymax>660</ymax>
+        </bndbox>
+    </object>
+=======
+	<folder>augmented_clips</folder>
+	<filename>train_455_.jpeg</filename>
+	<path>/mnt/flash/augmented_clips/1565722332_7215972_avi_2019-08-14 11:43:04-00.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>499</xmin>
+			<ymin>596</ymin>
+			<xmax>960</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+</annotation>

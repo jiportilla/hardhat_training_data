@@ -1,0 +1,49 @@
+<annotation>
+	<folder>augmented_clips</folder>
+	<filename>train_757_.jpeg</filename>
+<<<<<<< HEAD
+	<path>/mnt/flash/augmented_clips/1565716305_7631726_avi_2019-08-14 11:39:14-02.jpeg</path>
+=======
+	<path>/mnt/flash/augmented_clips/1565722332_7215972_avi_2019-08-14 11:42:54-01.jpeg</path>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safetyvest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>104</ymin>
+			<xmax>858</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>398</xmin>
+			<ymin>171</ymin>
+			<xmax>808</xmax>
+			<ymax>601</ymax>
+=======
+			<xmin>554</xmin>
+			<ymin>55</ymin>
+			<xmax>897</xmax>
+			<ymax>322</ymax>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		</bndbox>
+	</object>
+</annotation>

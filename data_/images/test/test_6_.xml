@@ -1,0 +1,91 @@
+<annotation>
+<<<<<<< HEAD
+	<folder>saved_clips</folder>
+	<filename>test_6_.jpeg</filename>
+	<path>/mnt/flash/saved_clips/1565716305.7631726.avi_2019-08-14 11:41:02.736068.jpeg</path>
+=======
+	<folder>augmented_clips</folder>
+	<filename>test_6_.jpeg</filename>
+	<path>/mnt/flash/augmented_clips/1565716305_7631726_avi_2019-08-14 11:40:59-00.jpeg</path>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hardhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>400</xmin>
+			<ymin>80</ymin>
+			<xmax>576</xmax>
+			<ymax>251</ymax>
+=======
+			<xmin>582</xmin>
+			<ymin>300</ymin>
+			<xmax>758</xmax>
+			<ymax>459</ymax>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		</bndbox>
+	</object>
+	<object>
+		<name>safetyvest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>526</xmin>
+			<ymin>42</ymin>
+			<xmax>730</xmax>
+			<ymax>305</ymax>
+=======
+			<xmin>635</xmin>
+			<ymin>272</ymin>
+			<xmax>844</xmax>
+			<ymax>501</ymax>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+<<<<<<< HEAD
+			<xmin>402</xmin>
+			<ymin>32</ymin>
+			<xmax>727</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>484</xmin>
+			<ymin>150</ymin>
+			<xmax>538</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+=======
+			<xmin>579</xmin>
+			<ymin>229</ymin>
+			<xmax>842</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+</annotation>

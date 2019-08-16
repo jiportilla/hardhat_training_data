@@ -1,0 +1,37 @@
+<annotation>
+    <folder>augmented_clips</folder>
+    <filename>train_132_.jpeg</filename>
+<<<<<<< HEAD
+    <path>/mnt/flash/augmented_clips/1565722332_7215972_avi_2019-08-14 11:43:01-00.jpeg</path>
+=======
+    <path>/mnt/flash/augmented_clips/1565722332_7215972_avi_2019-08-14 11:43:57-03.jpeg</path>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+<<<<<<< HEAD
+            <xmin>767</xmin>
+            <ymin>601</ymin>
+            <xmax>904</xmax>
+            <ymax>718</ymax>
+=======
+            <xmin>116</xmin>
+            <ymin>0</ymin>
+            <xmax>389</xmax>
+            <ymax>272</ymax>
+>>>>>>> d349df2ecb55368e89346eb164a270bcbf9dff61
+        </bndbox>
+    </object>
+</annotation>
