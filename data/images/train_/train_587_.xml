@@ -1,0 +1,38 @@
+<annotation>
+	<folder>saved_clips</folder>
+	<filename>train_587_.jpeg</filename>
+	<path>/mnt/flash/saved_clips/1565722332.7215972.avi_2019-08-14 11:43:10.701849.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safetyvest</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>822</xmin>
+			<ymin>527</ymin>
+			<xmax>1080</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>766</xmin>
+			<ymin>508</ymin>
+			<xmax>1078</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

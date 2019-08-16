@@ -1,0 +1,37 @@
+<annotation>
+    <folder>augmented_clips</folder>
+    <filename>train_199_.jpeg</filename>
+    <path>/mnt/flash/augmented_clips/1565722332_7215972_avi_2019-08-14 11:42:58-02.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>safetyvest</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>180</xmin>
+            <ymin>85</ymin>
+            <xmax>462</xmax>
+            <ymax>311</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>144</xmin>
+            <ymin>30</ymin>
+            <xmax>509</xmax>
+            <ymax>338</ymax>
+        </bndbox>
+    </object>
+</annotation>
