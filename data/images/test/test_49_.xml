@@ -1,7 +1,7 @@
 <annotation>
-	<folder>aug_filtered_clips</folder>
-	<filename>1565722332_7215972_avi_2019-08-14 11:42:49-03.jpeg</filename>
-	<path>/mnt/flash/aug_filtered_clips/1565722332_7215972_avi_2019-08-14 11:42:49-03.jpeg</path>
+	<folder>saved_clips</folder>
+	<filename>test_49_.jpeg</filename>
+	<path>/mnt/flash/saved_clips/1565722332.7215972.avi_2019-08-14 11:42:49.685848.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>643</xmin>
-			<ymin>5</ymin>
-			<xmax>792</xmax>
-			<ymax>154</ymax>
+			<xmin>665</xmin>
+			<ymin>110</ymin>
+			<xmax>848</xmax>
+			<ymax>295</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>568</xmin>
-			<ymin>29</ymin>
-			<xmax>801</xmax>
-			<ymax>198</ymax>
+			<xmin>667</xmin>
+			<ymin>82</ymin>
+			<xmax>884</xmax>
+			<ymax>333</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>513</xmin>
-			<ymin>5</ymin>
-			<xmax>799</xmax>
-			<ymax>201</ymax>
+			<xmin>643</xmin>
+			<ymin>1</ymin>
+			<xmax>882</xmax>
+			<ymax>335</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,34 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>683</xmin>
-			<ymin>85</ymin>
-			<xmax>737</xmax>
-			<ymax>130</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hardhat</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>649</xmin>
-			<ymin>663</ymin>
-			<xmax>789</xmax>
-			<ymax>720</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>safetyvest</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>593</xmin>
-			<ymin>685</ymin>
-			<xmax>659</xmax>
-			<ymax>720</ymax>
+			<xmin>763</xmin>
+			<ymin>213</ymin>
+			<xmax>821</xmax>
+			<ymax>267</ymax>
 		</bndbox>
 	</object>
 </annotation>

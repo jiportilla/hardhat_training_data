@@ -1,7 +1,7 @@
 <annotation>
-	<folder>augmented_clips</folder>
-	<filename>1565716305_7631726_avi_2019-08-14 11:42:28-00.jpeg</filename>
-	<path>/mnt/flash/augmented_clips/1565716305_7631726_avi_2019-08-14 11:42:28-00.jpeg</path>
+	<folder>saved_clips</folder>
+	<filename>test_39_.jpeg</filename>
+	<path>/mnt/flash/saved_clips/1565716305.7631726.avi_2019-08-14 11:42:40.520397.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>hardhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>332</ymin>
+			<xmax>574</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>safetyvest</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>804</xmin>
-			<ymin>227</ymin>
-			<xmax>1051</xmax>
-			<ymax>344</ymax>
+			<xmin>484</xmin>
+			<ymin>270</ymin>
+			<xmax>652</xmax>
+			<ymax>439</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +41,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>662</xmin>
-			<ymin>214</ymin>
-			<xmax>1026</xmax>
-			<ymax>379</ymax>
+			<xmin>402</xmin>
+			<ymin>265</ymin>
+			<xmax>714</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>495</xmin>
+			<ymin>440</ymin>
+			<xmax>542</xmax>
+			<ymax>478</ymax>
 		</bndbox>
 	</object>
 </annotation>

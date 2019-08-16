@@ -1,7 +1,7 @@
 <annotation>
 	<folder>saved_clips</folder>
-	<filename>1565716305.7631726.avi_2019-08-14 11:42:29.604480.jpeg</filename>
-	<path>/mnt/flash/saved_clips/1565716305.7631726.avi_2019-08-14 11:42:29.604480.jpeg</path>
+	<filename>train_498_.jpeg</filename>
+	<path>/mnt/flash/saved_clips/1565716305.7631726.avi_2019-08-14 11:42:40.695925.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>326</xmin>
+			<xmin>281</xmin>
 			<ymin>1</ymin>
-			<xmax>507</xmax>
-			<ymax>86</ymax>
+			<xmax>572</xmax>
+			<ymax>111</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>327</xmin>
+			<xmin>279</xmin>
 			<ymin>1</ymin>
-			<xmax>582</xmax>
-			<ymax>122</ymax>
+			<xmax>632</xmax>
+			<ymax>135</ymax>
 		</bndbox>
 	</object>
 </annotation>

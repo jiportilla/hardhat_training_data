@@ -1,7 +1,7 @@
 <annotation>
     <folder>augmented_clips</folder>
-    <filename>1565722332_7215972_avi_2019-08-14 11:42:55-02.jpeg</filename>
-    <path>/mnt/flash/augmented_clips/1565722332_7215972_avi_2019-08-14 11:42:55-02.jpeg</path>
+    <filename>train_200_.jpeg</filename>
+    <path>/mnt/flash/augmented_clips/1565722332_7215972_avi_2019-08-14 11:43:34-03.jpeg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -12,26 +12,15 @@
     </size>
     <segmented>0</segmented>
     <object>
-        <name>safetyvest</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>439</xmin>
-            <ymin>353</ymin>
-            <xmax>655</xmax>
-            <ymax>566</ymax>
-        </bndbox>
-    </object>    <object>
         <name>person</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>439</xmin>
-            <ymin>304</ymin>
-            <xmax>684</xmax>
-            <ymax>567</ymax>
+            <xmin>220</xmin>
+            <ymin>130</ymin>
+            <xmax>463</xmax>
+            <ymax>447</ymax>
         </bndbox>
     </object>
 </annotation>

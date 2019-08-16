@@ -1,7 +1,7 @@
 <annotation>
-	<folder>saved_clips</folder>
-	<filename>1565716305.7631726.avi_2019-08-14 11:40:51.442895.jpeg</filename>
-	<path>/mnt/flash/saved_clips/1565716305.7631726.avi_2019-08-14 11:40:51.442895.jpeg</path>
+	<folder>augmented_clips</folder>
+	<filename>train_366_.jpeg</filename>
+	<path>/mnt/flash/augmented_clips/1565716305_7631726_avi_2019-08-14 11:40:33-00.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,51 +12,63 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>hardhat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>300</xmin>
-			<ymin>205</ymin>
-			<xmax>472</xmax>
-			<ymax>367</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>safetyvest</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>293</xmin>
-			<ymin>132</ymin>
-			<xmax>558</xmax>
-			<ymax>296</ymax>
+			<xmin>580</xmin>
+			<ymin>1</ymin>
+			<xmax>722</xmax>
+			<ymax>62</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>295</xmin>
-			<ymin>135</ymin>
-			<xmax>685</xmax>
-			<ymax>426</ymax>
+			<xmin>541</xmin>
+			<ymin>1</ymin>
+			<xmax>764</xmax>
+			<ymax>151</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>red</name>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>469</ymin>
+			<xmax>454</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hardhat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>317</xmin>
-			<ymin>251</ymin>
-			<xmax>362</xmax>
-			<ymax>300</ymax>
+			<xmin>232</xmin>
+			<ymin>467</ymin>
+			<xmax>306</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safetyvest</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>560</ymin>
+			<xmax>424</xmax>
+			<ymax>720</ymax>
 		</bndbox>
 	</object>
 </annotation>

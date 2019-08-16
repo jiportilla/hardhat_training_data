@@ -1,7 +1,7 @@
 <annotation>
 	<folder>saved_clips</folder>
-	<filename>1565716305.7631726.avi_2019-08-14 11:39:15.578363.jpeg</filename>
-	<path>/mnt/flash/saved_clips/1565716305.7631726.avi_2019-08-14 11:39:15.578363.jpeg</path>
+	<filename>train_311_.jpeg</filename>
+	<path>/mnt/flash/saved_clips/1565716305.7631726.avi_2019-08-14 11:40:55.468487.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>932</xmin>
-			<ymin>376</ymin>
-			<xmax>1052</xmax>
-			<ymax>493</ymax>
+			<xmin>389</xmin>
+			<ymin>193</ymin>
+			<xmax>550</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safetyvest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>208</ymin>
+			<xmax>653</xmax>
+			<ymax>378</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +41,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>158</xmin>
-			<ymin>431</ymin>
-			<xmax>432</xmax>
-			<ymax>659</ymax>
+			<xmin>390</xmin>
+			<ymin>180</ymin>
+			<xmax>759</xmax>
+			<ymax>378</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>person</name>
+		<name>red</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>844</xmin>
-			<ymin>126</ymin>
-			<xmax>1051</xmax>
-			<ymax>491</ymax>
+			<xmin>449</xmin>
+			<ymin>307</ymin>
+			<xmax>506</xmax>
+			<ymax>348</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>augmented_clips</folder>
-	<filename>1565716305_7631726_avi_2019-08-14 11:39:04-03.jpeg</filename>
-	<path>/mnt/flash/augmented_clips/1565716305_7631726_avi_2019-08-14 11:39:04-03.jpeg</path>
+	<folder>train_</folder>
+	<filename>train_6_.jpeg</filename>
+	<path>/home/silas/ML/utilities/object_detection_training_pipeline/scripts/data/images/train_/train_6_.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>279</xmin>
-			<ymin>564</ymin>
-			<xmax>389</xmax>
-			<ymax>664</ymax>
+			<xmin>616</xmin>
+			<ymin>326</ymin>
+			<xmax>789</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>safetyvest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>572</xmin>
+			<ymin>257</ymin>
+			<xmax>818</xmax>
+			<ymax>509</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +41,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>267</xmin>
-			<ymin>241</ymin>
-			<xmax>469</xmax>
-			<ymax>664</ymax>
+			<xmin>581</xmin>
+			<ymin>211</ymin>
+			<xmax>920</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymin>424</ymin>
+			<xmax>685</xmax>
+			<ymax>481</ymax>
 		</bndbox>
 	</object>
 </annotation>
